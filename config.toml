@@ -1,5 +1,5 @@
-baseURL = ''
-languageCode = 'https://voidptrptr.github.io/en-uk'
+baseURL = 'https://voidptrptr.github.io'
+languageCode = 'en-uk'
 title = 'Voidptrptr'
 
 baseurl = "/"
