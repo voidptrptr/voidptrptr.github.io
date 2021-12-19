@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-uk'
-title = 'My New Hugo Site'
+baseURL = ''
+languageCode = 'https://voidptrptr.github.io/en-uk'
+title = 'Voidptrptr'
 
 baseurl = "/"
 theme = "terminal"
